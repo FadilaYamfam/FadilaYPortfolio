@@ -1,0 +1,71 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+    box-sizing: border-box;
+    font-size: large;
+}
+
+body{
+    background-image: linear-gradient(to top left, #c7abce 0%, #5f4bbb 100%);
+    opacity: 0.9; 
+    padding: -10%;
+}
+
+h3{
+    font-size: 40px;
+}
+
+li{
+    font-size: 25px;
+}
+
+p{
+    font-size: 20px;
+}
+
+#header
+{
+    padding: 0px;
+    height:70px;
+    width: 100%;
+    background-color: #1a0e29;
+    margin-bottom: 10px
+}
+
+#name {
+        float:left;
+        margin-left: 20px;
+        padding-bottom: 10px;
+        font-size: 16px;
+        font-family: Verdana, sans-serif;
+        color: #ffffff;
+}
+    
+#email{
+        float:right;
+        margin-right: 20px;
+        padding-bottom: 10px;
+        font-size: 16px;
+        font-family: Verdana, sans-serif;
+        color: #ffffff;
+}
+    
+#contact
+    {
+        margin-left:45%;
+        padding: 15px;
+        font-size: 16px;
+        font-family: Verdana, sans-serif;
+        color: #ffffff;
+    }
+
+#heading
+        {
+            font-weight:bold;
+            }        
+    
+td{
+ padding: 2px;
+ border: 1px solid #49063a;
+ }
+# Fadila-Portfolio /c/Users/Fadila Yamfam/Desktop/Fadila-Portfolio/style.css /c/Users/Fadila Yamfam/Desktop/Fadila-Portfolio/travel.jpg /c/Users/Fadila Yamfam/Desktop/Fadila-Portfolio/ba.jpg /c/Users/Fadila Yamfam/Desktop/Fadila-Portfolio/back.jpg /c/Users/Fadila Yamfam/Desktop/Fadila-Portfolio/book.jpg /c/Users/Fadila Yamfam/Desktop/Fadila-Portfolio/contact.html /c/Users/Fadila Yamfam/Desktop/Fadila-Portfolio/Fadila.jpg /c/Users/Fadila Yamfam/Desktop/Fadila-Portfolio/goals.html /c/Users/Fadila Yamfam/Desktop/Fadila-Portfolio/index.html /c/Users/Fadila Yamfam/Desktop/Fadila-Portfolio/me.jpg /c/Users/Fadila Yamfam/Desktop/Fadila-Portfolio/music.jpg /c/Users/Fadila Yamfam/Desktop/Fadila-Portfolio/navbar.js /c/Users/Fadila Yamfam/Desktop/Fadila-Portfolio/README.md /c/Users/Fadila Yamfam/Desktop/Fadila-Portfolio/skills.html
+#FadilaYPortfolio /c/Users/Fadila Yamfam/Desktop/FadilaYPortfolio/style.css /c/Users/Fadila Yamfam/Desktop/FadilaYPortfolio/travel.jpg /c/Users/Fadila Yamfam/Desktop/FadilaYPortfolio/ba.jpg /c/Users/Fadila Yamfam/Desktop/FadilaYPortfolio/back.jpg /c/Users/Fadila Yamfam/Desktop/FadilaYPortfolio/book.jpg /c/Users/Fadila Yamfam/Desktop/FadilaYPortfolio/contact.html /c/Users/Fadila Yamfam/Desktop/FadilaYPortfolio/Fadila.jpg /c/Users/Fadila Yamfam/Desktop/FadilaYPortfolio/goals.html /c/Users/Fadila Yamfam/Desktop/FadilaYPortfolio/index.html /c/Users/Fadila Yamfam/Desktop/FadilaYPortfolio/me.jpg /c/Users/Fadila Yamfam/Desktop/FadilaYPortfolio/music.jpg /c/Users/Fadila Yamfam/Desktop/FadilaYPortfolio/navbar.js /c/Users/Fadila Yamfam/Desktop/FadilaYPortfolio/skills.html
